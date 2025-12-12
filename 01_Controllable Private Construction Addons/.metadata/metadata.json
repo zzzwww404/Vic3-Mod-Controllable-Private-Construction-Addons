@@ -1,0 +1,12 @@
+{
+  "name" : "Controllable Private Construction Addons",
+  "id" : "",
+  "version" : "z.2.0",
+  "supported_game_version" : "",
+  "short_description" : "",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
